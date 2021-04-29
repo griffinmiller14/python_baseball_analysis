@@ -1,3 +1,6 @@
+Veiw the written report in the attached PDF file.
+
+
 To run this project, begin with the following steps:
 1) Install the necessary libraries
     - BeautifulSoup4
